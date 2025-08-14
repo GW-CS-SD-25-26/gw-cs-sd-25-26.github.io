@@ -6,17 +6,17 @@ layout: home
 <div class="footer-col two-col-1">
     <ul class="contact-list">
         <li><b> Instructors </b> </li>
-        <li><b>Prof. Timothy Wood - Lecture Section 10 </b> </li>
-        <li> timwood@gwu.edu </li>
-        <li> Tuesday 2:00pm -- 3:05pm, Tompkins 201 </li>
-        <li><b>Prof. Xiaodong Qu - Lecture Section 11 </b></li>
-        <li> x.qu@gwu.edu </li>
-        <li> Tuesday 3:35pm -- 4:40pm , SEH 1300/1400 </li>
-        <li><b> Josh Shapiro - Lab </b> </li>
+        <li><b>Prof. Xiaodong Qu - Lecture Section 10 </b> </li>
+        <li> x.qu@gwu.edu  </li>
+        <li> Tuesday 3:35pm -- 4:40pm , SEH 1300/1400/1450 </li>
+        <li><b>Prof. Timothy Kim - Lecture Section 11 </b></li>
+        <li> TBD </li>
+        <li> Tuesday 3:35pm -- 4:40pm , SEH 1300/1400/1450 </li>
+        <li><b> Josh Shapiro - Lab TA </b> </li>
         <li> jshapiro314@gwu.edu </li>
-        <li> Wednesday 6:10 -- 8:40pm, SEH 1300/1400 </li>
-        <li> <b>Victor Liu - WID TA</b></li>
-        <li> victor_liu@gwmail.gwu.edu</li>
+        <li> Wednesday 6:10 -- 8:40pm, SEH 1300/1400/1450  </li>
+        <li> <b>TBD - WID TA</b></li>
+        <li> TBD</li>
     </ul>
 </div>
 <div class="footer-col two-col-2">

@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSCI 4243W/4244 Capstone Design 2024-2025
-email: timwood@gwu.edu, x.qu@gwu.edu, jshapiro314@gwu.edu
-author: Timothy Wood, Xiaodong Qu, and Josh Shapiro
+title: CSCI 4243W/4244 Capstone Design 2025-2026
+email: x.qu@gwu.edu, jshapiro314@gwu.edu
+author:  Xiaodong Qu, Timothy Kim, and Josh Shapiro
 description: > # this means to ignore newlines until "baseurl:"
   CS 4243/4244 Capstone Design Project 
 

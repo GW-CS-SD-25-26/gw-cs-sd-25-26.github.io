@@ -20,9 +20,9 @@ description: > # this means to ignore newlines until "baseurl:"
   CS 4243/4244 Capstone Design Project 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://GW-CS-SD-24-25.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://GW-CS-SD-25-26.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  GW-CS-SD-24-25
+github_username:  GW-CS-SD-25-26
 
 # destination: ./docs
 

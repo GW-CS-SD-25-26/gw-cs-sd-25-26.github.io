@@ -1,4 +1,4 @@
-# gw-cs-sd-24-25.github.io
+# gw-cs-sd-25-26.github.io
 
 
 To setup this site on a mac:

@@ -10,7 +10,7 @@ layout: home
         <li> x.qu@gwu.edu  </li>
         <li> Tuesday 3:35pm -- 4:40pm , SEH 1300/1400/1450 </li>
         <li><b>Prof. Timothy Kim - Lecture Section 11 </b></li>
-        <li> TBD </li>
+        <li> timothyk@gwu.edu </li>
         <li> Tuesday 3:35pm -- 4:40pm , SEH 1300/1400/1450 </li>
         <li><b> Josh Shapiro - Lab TA </b> </li>
         <li> jshapiro314@gwu.edu </li>

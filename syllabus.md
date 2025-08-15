@@ -4,8 +4,8 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-**Instructors:** Timothy Wood, Xiaodong Qu, Josh Shapiro
-**Email:** timwood@gwu.edu x.qu@gwu.edu jshapiro314@gwu.edu
+**Instructors:** Xiaodong Qu, Timothy Kim, Josh Shapiro
+**Email:** x.qu@gwu.edu timothyk@gwu.edu jshapiro314@gwu.edu
 **Prerequisites:** Senior status, CSCI 3212, CSCI 3411 
 
 **Time/Place:**

@@ -58,7 +58,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 
 <div style="font-size:90%">
 
-| Week <br> (Sunday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, unless otherwise noted) |
+| Week <br> (Monday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, unless otherwise noted) |
 | :--- |:---  |:--- |:--- |
 | Aug. 25 | - [Course Logistics](lectures/1-Course-Structure.pdf) | [[Lab Slides](lectures/lab_1.pdf)] <br> - Deloitte Visit <br> - Lab Overview <br> - Project Management Intro <br> - Team Formation | 1. [Look at sample ideas](ideas.md) <br> 2. [Join slack](https://join.slack.com/t/gwcssd24-25/shared_invite/zt-2o6qn2is4-w6phDTds37qMTEFD18fdhg) & upload your photo ASAP <br> 3. Complete [Student Info form](https://forms.gle/WSfpXNZSwm8y3UHm9) ASAP <br> 4. Form teams & complete [team submission](https://forms.gle/414u7GCqt4AX8iBh7) before Tuesday's class (Sept. 3) |  
 | Sept. 1  | - [Presentation Skills](lectures/how-to-present.pdf) <br> - Review project ideas | [[Lab Slides](lectures/lab_2.pdf)] <br> - [ML Research](lectures/ML_Project_Design.pdf)  <br> - Github Projects Setup <br> - Tech Lab Overview |  1. [Refine Project ideas](https://forms.gle/414u7GCqt4AX8iBh7) (edit team submission) <br> 2. [Submit Resume](https://blackboard.gwu.edu) (blackboard, Sept. 8) <br> 3. [Schedule weekly instructor meeting](https://docs.google.com/spreadsheets/d/1mi4_8ivqpRiqK6PVmxEgRWepL-8SYd-cFjiEvnx4R8E/edit?gid=0#gid=0) (Sept. 8) |
@@ -81,8 +81,10 @@ This is a two semester Computer Science capstone course culminating in a signifi
 
 
 ## Spring Semester CSCI 4244 ##
+
+Under development
  
-<div style="font-size:90%">
+<!-- <div style="font-size:90%">
 
 | Week <br> (Monday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines |
 | :--- |:---  |:--- |:--- |    
@@ -105,7 +107,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | May 5   |  |  | [Final Package](lectures/presentations.md#final-package) Due Friday May 9, 11:59PM | 
 | May 12  |   | Commencement Week  | [Graduation, hooray!!](https://commencement.gwu.edu/schedule)  | 
 
-</div> 
+</div>  -->
  
 
 ## Learning Outcomes ##

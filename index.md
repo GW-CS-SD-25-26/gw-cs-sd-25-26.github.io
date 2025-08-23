@@ -22,19 +22,28 @@ layout: home
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b> Technical Mentors </b> </li>
+        <li><b> Aisha Mohammed, </b> MITRE </li>
         <li><b> Austin Blackman, </b> Oracle </li>
-        <li><b> Dennis Afanasev, </b> Slingshot Aerospace </li>
+        <li><b> Billy Miller, </b> MITRE </li>
+        <li><b> Brandon Harvey, </b> Marine Acoustics </li>
+        <li><b> Connor Burnett, </b> Alarm.com </li>
+        <li><b> Dennis Afanasev, </b> Oracle </li>
+        <li><b> Dietrich Reidenbaugh, </b> Amazon </li>
+        <li><b> Elena Korkes, </b> GWUSEC </li>
         <li><b> Eli Mattson, </b> Indigov </li>
-        <li><b> Ellen Louie, </b> LifeLoop </li>
-        <li><b> Jen Wright, </b> Apple </li>
-        <li><b> Katherine Walker,</b> Modern Treasury </li>
+        <li><b> Gregor Peach, </b> Amazon </li>
+        <li><b> JJ Botha </b></li>
+        <li><b> Jonathan Lee, </b> CMU Robotics </li>
         <li><b> Leah Staniorski, </b> Unit Finance </li>
-        <li><b> Lucas Chaufournier, </b> Square </li>
+        <li><b> Max Englander, </b> Capital One </li>
         <li><b> Pat Cody, </b> Meta </li>
-        <li><b> Phil Lopreiato, </b> Facebook </li> 
+        <li><b> Phil Lopreiato, </b> Facebook </li>
+        <li><b> Ravi Goti, </b> eBay </li>
         <li><b> Rian Shambaugh, </b> FINRA </li>
-        <li><b> Sarah Morin,</b> Oracle </li>
-      </ul>
+        <li><b> Rishi Kanungo</b></li>
+        <li><b> Ross Weissman, </b> Praetorian </li>
+        <li><b> Victoria Hennemann, </b> GWU Cybersecurity </li>
+    </ul>
 </div>
 </div>
 </div>

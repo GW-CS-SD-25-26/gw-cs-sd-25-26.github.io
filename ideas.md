@@ -10,12 +10,6 @@ permalink: /ideas/
 # RTX Autonomous Vehicle Competition
 GW has participated in an autonomous drone competition since 2023-2024. Each year the competition presents a new contest for students to build one or more drones to overcome challenges. This is an **interdisciplinary project** that will span CS, ECE, and MAE. The CS team will primarily be responsible for developing the software to control the drones. GW will then take the drones to a competition to see how we perform compared to other schools. This is a great chance work on a real hardware/software project and build connections with Raytheon/RTX, a major R&D corporation for the US Government. **We are looking for ~4 students to fill this project!**
 
-# Sign Language Communication Aid
-The purpose of this project is to create a system that enables more natural/seamless communication for deaf individuals by capturing and translating sign language into text or voice. In addition, create a system for those who do not know sign language to communicate in sign language, making communication more natural and bidirectional. This is an **interdiscipinary project** with students in both ECE and CS. **We are looking for 1-2 students to join this project!**
-
-# Underwater Robotic Systems
-The project aims to develop an underwater robotic system that may be used in combating multiple environmentally important issues such as cleaning ocean’s plastic (microplastic) and/or Lionfish detainment. Invasive lionfish threaten native fish and the environment in U.S. Atlantic coastal waters. Invasive species are capable of causing extinctions of native plants and animals, reducing biodiversity, competing with native organisms for limited resources, and altering habitats (Lionfish link). Plastic debris injures and kills fish, seabirds and marine mammals. These plastic polymers directly pose a great threat to marine organisms and also indirectly affect the ecosystem by adsorbing other marine pollutants (link 1, link 2). Eventually, people’s health is at risk as the consumer of these sea animals. The project will seek to build an underwater robot capable of identifying problems such as these. This is an **interdiscipinary project** with students in both ECE and CS. **We are looking for 1-2 students to join this project!**
-
 # Distraction Free Commuting Productivity/Entertainment
 Create an application to make my hour long commute more productive or fun. The application should be designed for someone driving a car so it must be entirely audio based and be designed to limit distractions while still giving the driver something entertaining/useful to do.
 
@@ -27,12 +21,6 @@ Design an algorithm to optimize traffic flow in a city based on real-time data f
 
 # Financial Portfolio Management Tool
 Create an algorithm that optimizes investment portfolio allocations based on risk tolerance and market trends. Build a web or mobile application that allows users to manage their portfolios, leveraging the algorithmic insights.
-
-# UTA/LA Scheduler
-Every year the CS department has to assign ~50 students as undergraduate Learning and Teaching Assistants. This is a complex scheduling process that is currently done manuarlly (by your poor instructor). This project would build an automated system that accepts information about classes and student/faculty preferences to determine the best matching. If you do a good job, this could be adopted by the CS department!
-
-# Encrypted & Sharded Cloud Storage System
-Build a system that allows me to provide multiple cloud storage platform credentials and will act as a single “cloud”. When I upload files, they should be encrypted and chunked, with each piece stored in a separate cloud provider. When I download files, these encrypted chunks should be joined together and unencrypted on disk. Provide a UI that allows me view an index of my files & supports uploads/downloads. This solution should take security into account.
 
 # Network Threat Detector
 Design a platform capable of performing high speed analysis of network traffic to detect security threats. This could involve designing and deploying ML classification algorithms to specialized hardware like programmable network cards or switches in Prof. Wood's lab.
@@ -64,7 +52,7 @@ Explore the application of advanced deep learning techniques, including transfor
 
 Integrate generative AI tools into the one-year-long CS senior design course to enhance both teaching and learning. This project will explore the application of AI-driven project ideation, automated code generation, and real-time feedback mechanisms, with the goal of fostering greater creativity and innovation among students. The project will assess the impact of these AI tools on various aspects of the course, including student engagement, creativity, collaboration, and project outcomes. Specific areas of focus will include how generative AI can assist in brainstorming novel project ideas, streamline the coding process, and provide personalized feedback that adapts to individual student needs.
 
-# Path-Aware Microservice Security
+<!-- # Path-Aware Microservice Security
 *Faculty contact for details: Prof Tim Wood*
 
 Design and implement a security framework for microservice applications deployed in Docker containers. The framework should intercept requests traversing microservice components and make authorization decisions or detect anomalies based on the path the requests have taken.
@@ -72,59 +60,53 @@ Design and implement a security framework for microservice applications deployed
 # ML Based Management of Serverless Functions
 *Faculty contact for details: Prof Tim Wood*
 
-Sledge is a serverless computing framework being developed at GW for low latency computation. This project will extend Sledge with an ML model to predict the processing time for each request and use this to guide resource management decisions such as scheduling and load balancing.
+Sledge is a serverless computing framework being developed at GW for low latency computation. This project will extend Sledge with an ML model to predict the processing time for each request and use this to guide resource management decisions such as scheduling and load balancing. -->
 
 ## Project ideas from previous years
-These ideas may still be available.
+
+# UTA/LA Scheduler
+Every year the CS department has to assign ~50 students as undergraduate Learning and Teaching Assistants. This is a complex scheduling process that is currently done manuarlly (by your poor instructor). This project would build an automated system that accepts information about classes and student/faculty preferences to determine the best matching. If you do a good job, this could be adopted by the CS department!
+
+# Encrypted & Sharded Cloud Storage System
+Build a system that allows me to provide multiple cloud storage platform credentials and will act as a single “cloud”. When I upload files, they should be encrypted and chunked, with each piece stored in a separate cloud provider. When I download files, these encrypted chunks should be joined together and unencrypted on disk. Provide a UI that allows me view an index of my files & supports uploads/downloads. This solution should take security into account.
 
 # High Performance Remote Procedure Calls
-*Faculty contact for details: Prof Tim Wood*
 
 Every time you submit a search request on Google, it is transformed into 100s to 1000s of queries sent to many different servers for processing. These requests are performed using Remote Procedure Calls (RPC), which allow one piece of software to easily invoke functionality in another. This project will design and implement a RPC protocol focused on low latency processing of requests, and will be built to work with the OpenNetVM project created by students in Prof. Tim Wood's lab. You will learn about the design of networking protocols, get practice with writing high performance C code, and learn about shared memory communication.
  
 # CS Experimenter's Notebook
-*Faculty contact for details: Prof Tim Wood*
 
 Computer Science researchers often need to run experiments to test the performance of different algorithms or pieces of software. This project will design a web-based tool to help researchers design experiments, run tests, gather data, and analyze/visualize results. The primary challenge with this project is designing a system which is flexible to support many different types of experiments -- an OS designer might want to run experiments to evaluate the impact of different schedulers, while a ML researcher may need to evaluate the impact of different neural network parameters on multiple data sets. How can you design a tool that can easily run these diverse workloads and gather the data in a consistent way so that it can be easily analyzed and reproduced?
 
 # BikeBuddy: Safe and Customizable Cycling Routes
 
-*Faculty contact for details: Prof Tim Wood*
 Project Description: Develop a mobile application that provides cyclists in Washington, D.C., with safe and optimized biking routes. The app integrates bike lane data, safety statistics, and user feedback to offer customized routes that avoid high-speed roads and dangerous intersections. Real-time updates and user reports enhance route accuracy and safety. The project utilizes advanced algorithms, React Native for mobile development, and AWS for backend infrastructure, aiming to promote cycling as a safer and more reliable mode of transportation.
 
 # Re(search)-Verse: Personalized Graduate School Research Tool
 
-*Faculty contact for details: Prof Tim Wood*
 Project Description: Create a platform that centralizes information on professors, universities, and research papers to assist students in finding the best graduate school and mentor. The platform uses a combination of relational and graph databases to store and visualize relationships between researchers, their publications, and collaborating professors. Users can input preferences such as location, research area, and university ranking, and the platform’s ranking algorithm will generate personalized recommendations. APIs like Semantic Scholar and OpenAI’s models are used to gather and categorize research data.
 
 # WalletWiz: AI-Powered Personal Finance and Credit Card Optimization
 
-*Faculty contact for details: Prof Tim Wood*
 Project Description: Develop a web application that helps users manage personal finances and optimize credit card usage. The platform provides two key features: personalized spending insights based on user-defined goals and tailored credit card recommendations. WalletWiz uses AI algorithms to analyze spending patterns, offer actionable advice, and suggest credit card offers that match the user's financial habits. The application integrates technologies like OpenAI, LangChain, and the Plaid API for secure data management and intelligent recommendations.
 
 
 # ChatGPTravel: AI-Powered Optimized Travel Itineraries
 
-*Faculty contact for details: Prof Xiaodong Qu*
 Project Description: Develop a web service that generates personalized travel itineraries based on user preferences such as cost, rating, and travel time. The platform leverages generative AI, like ChatGPT, to suggest activities and destinations, which are then verified and enriched using APIs like Yelp and Foursquare. The itinerary is optimized using combinatorial algorithms to create the most efficient, cost-effective, or highly-rated experience. The project aims to simplify travel planning by providing tailored, optimized itineraries that enhance the travel experience.
 
 # Eco-Sorting: AI-Driven Waste Management System
 
-*Faculty contact for details: Prof Xiaodong Qu*
 Project Description: Develop an AI-powered system that uses Convolutional Neural Networks (CNNs) to accurately classify and sort waste images into recyclable categories. The project focuses on enhancing recycling efficiency through a user-friendly platform that allows easy image uploads and provides clear recycling instructions. The system leverages pre-trained models and integrates tools like TensorFlow and Django to ensure high accuracy and scalability across various recycling scenarios.
 
 # Style Genius: AI-Powered Clothing Shopping Platform
 
-*Faculty contact for details: Prof Xiaodong Qu*
 Project Description: Develop a comprehensive shopping website that uses web scraping and AI algorithms to personalize clothing recommendations based on user preferences and body dimensions. The platform integrates NLP to analyze product reviews and enhances the shopping experience by offering tailored suggestions from multiple retailers. The project involves full-stack development, including backend (Flask), frontend (HTML/CSS/JavaScript), and hosting on AWS, with a focus on creating an intuitive user interface and efficient data processing.
 
 # College Football Prediction Platform
 
-*Faculty contact for details: Prof Xiaodong Qu*
 Project Description: Develop a user-friendly platform that predicts the outcomes of college football games using machine learning algorithms such as Logistic Regression, KNN, and Random Forest. The platform provides fans with accurate win predictions, detailed team information, and live game schedules. It combines real-time data processing with engaging content to enhance the user experience. The project focuses on building a full-stack application using technologies like Flask, AWS, and Python, with a strong emphasis on delivering accurate predictions and an intuitive interface.
 
 # Mixed Reality UI for First Responders (AR/VR)
-*Faculty contact for details: Dr Hurriyet Ok*
 
 Design and implement holograms for incident command perspective and heads-up displays (HUD) for first responders using VR headset with eye tracking feature and video passthrough AR capabilities. The project will require the use of AR/VR equipment (headsets or Glass), provided by the department. It expands on some of the solutions provided by the NIST Chariot Challenge by expanding the UI design using eye tracking capable headsets, video passthrough etc.
-

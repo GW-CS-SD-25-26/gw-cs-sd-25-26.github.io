@@ -144,11 +144,11 @@ You will be assigned grades for each course CSCI 4243 and CSCI 4244, with the fo
     * [10%] Presentation 2
     * [20%] Presentation 3
  * [20%] Writing assignments and design homeworks (5% each)
- * [20%] Sprint Progress: 20% weekly status updates, sprint boards, code commits, resume, end of sprint demos
+ * [20%] Sprint Progress: 20% weekly status updates, sprint boards, code commits, end of sprint demos
    * Each student is expected to complete tickets on the project board, create their own weekly status update, and merge code to `main` by the end of each sprint.
  * [20%] Alpha Project Review
- * [5%] Participation and Initiative: attendence, team surveys, homework
-
+ * [5%] Participation and Initiative: attendence, team surveys, assignments (resume, tech lab, etc)
+g
 ### CSCI 4244 (Spring semester) ###
  * [10%] Presentations
     * [5%] Presentation 4

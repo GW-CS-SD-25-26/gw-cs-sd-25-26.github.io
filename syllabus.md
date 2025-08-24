@@ -79,11 +79,7 @@ The course is structured to have several types of (non-standard) meetings during
 Senior design enables you to focus on your own project, and push your technical capabilities through it. However, it is very important to learn how to successfully communicate (verbally as well as written) what you’re doing, and why it is cool with the outside world. It isn't enough to technically complete your project. You also need to sell it! Presentation skills are very important and relatively rare in graduating undergrads. Thus a good portion of SD will focus on your presentation skills, and will include presenting to different audiences. The [presentation deadlines and requirements](lectures/presentations.md) will be specified in the [course schedule](index.md). You will use <b> Github </b>  and/or google drive to submit your final team project presentations.
  
 ### Demos (Checkpoints) ###
- There are four substantive demos (you can view these as major project checkpoints) during the two semesters (Fall and Spring). As part of your project planning (early in fall) the mentors will help you identify the deliverables/demo for each of these checkpoints and we assess your progress based on this. To meet requirements each of the four demo/checkins, must have implemented some part(s) of your final software system (therefore a report or a design document by itself will not meet the criteria for any of the four checkpoints).
- * 1: Alpha Prototype 
- * 2: Beta Prototype
- * 3: Prototype Preliminary Demo
- * 4: Final Demo
+ There are substantive demos (you can view these as major project checkpoints) at the end of every sprint during the two semesters (Fall and Spring). As part of your project planning (early in fall) the mentors and instructors will help you identify the deliverables/demo for each of these checkpoints and we assess your progress based on this. To meet requirements each of the demo/checkins, must have implemented some part(s) of your final software system (therefore a report or a design document by itself will not meet the criteria for any of the checkpoints beyond demo -1).
  
 ### Final Package ###
  To complete the course, you must submit the Final package by the deadline May 11th. *Failure to submit the complete final package will result in no grade being assigned*
@@ -148,10 +144,10 @@ You will be assigned grades for each course CSCI 4243 and CSCI 4244, with the fo
     * [10%] Presentation 2
     * [20%] Presentation 3
  * [20%] Writing assignments and design homeworks (5% each)
- * [20%] Sprint Progress: 20% weekly status updates, sprint boards, code commits, website, resume
+ * [20%] Sprint Progress: 20% weekly status updates, sprint boards, code commits, resume, end of sprint demos
    * Each student is expected to complete tickets on the project board, create their own weekly status update, and merge code to `main` by the end of each sprint.
  * [20%] Alpha Project Review
- * [5%] Participation and Initiative: attendence, team surveys
+ * [5%] Participation and Initiative: attendence, team surveys, homework
 
 ### CSCI 4244 (Spring semester) ###
  * [10%] Presentations

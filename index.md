@@ -34,7 +34,7 @@ layout: home
         <li><b> Gregor Peach, </b> Amazon </li>
         <li><b> JJ Botha </b></li>
         <li><b> Jonathan Lee, </b> CMU Robotics </li>
-        <li><b> Leah Staniorski, </b> Unit Finance </li>
+        <li><b> Leah Staniorski, </b> Stripe </li>
         <li><b> Max Englander, </b> Capital One </li>
         <li><b> Pat Cody, </b> Meta </li>
         <li><b> Phil Lopreiato, </b> Facebook </li>

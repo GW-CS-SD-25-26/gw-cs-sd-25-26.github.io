@@ -12,7 +12,7 @@ layout: home
         <li><b>Prof. Timothy Kim - Lecture Section 11 </b></li>
         <li> timothyk@gwu.edu </li>
         <li> Tuesday 3:35pm -- 4:40pm , SEH 1300/1400/1450 </li>
-        <li><b> Josh Shapiro - Lab TA </b> </li>
+        <li><b> Josh Shapiro - Lab </b> </li>
         <li> jshapiro314@gwu.edu </li>
         <li> Wednesday 6:10 -- 8:40pm, SEH 1300/1400/1450  </li>
         <li> <b>TBD - WID TA</b></li>
@@ -22,19 +22,28 @@ layout: home
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b> Technical Mentors </b> </li>
+        <li><b> Aisha Mohammed, </b> MITRE </li>
         <li><b> Austin Blackman, </b> Oracle </li>
-        <li><b> Dennis Afanasev, </b> Slingshot Aerospace </li>
+        <li><b> Billy Miller, </b> MITRE </li>
+        <li><b> Brandon Harvey, </b> Marine Acoustics </li>
+        <li><b> Connor Burnett, </b> Alarm.com </li>
+        <li><b> Dennis Afanasev, </b> Oracle </li>
+        <li><b> Dietrich Reidenbaugh, </b> Amazon </li>
+        <li><b> Elena Korkes, </b> GWUSEC </li>
         <li><b> Eli Mattson, </b> Indigov </li>
-        <li><b> Ellen Louie, </b> LifeLoop </li>
-        <li><b> Jen Wright, </b> Apple </li>
-        <li><b> Katherine Walker,</b> Modern Treasury </li>
+        <li><b> Gregor Peach, </b> Amazon </li>
+        <li><b> JJ Botha </b></li>
+        <li><b> Jonathan Lee, </b> CMU Robotics </li>
         <li><b> Leah Staniorski, </b> Unit Finance </li>
-        <li><b> Lucas Chaufournier, </b> Square </li>
+        <li><b> Max Englander, </b> Capital One </li>
         <li><b> Pat Cody, </b> Meta </li>
-        <li><b> Phil Lopreiato, </b> Facebook </li> 
+        <li><b> Phil Lopreiato, </b> Facebook </li>
+        <li><b> Ravi Goti, </b> eBay </li>
         <li><b> Rian Shambaugh, </b> FINRA </li>
-        <li><b> Sarah Morin,</b> Oracle </li>
-      </ul>
+        <li><b> Rishi Kanungo</b></li>
+        <li><b> Ross Weissman, </b> Praetorian </li>
+        <li><b> Victoria Hennemann, </b> GWU Cybersecurity </li>
+    </ul>
 </div>
 </div>
 </div>
@@ -49,31 +58,33 @@ This is a two semester Computer Science capstone course culminating in a signifi
 
 <div style="font-size:90%">
 
-| Week <br> (Sunday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, unless otherwise noted) |
+| Week <br> (Monday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, unless otherwise noted) |
 | :--- |:---  |:--- |:--- |
-| Aug. 25 | - [Course Logistics](lectures/1-Course-Structure.pdf) | [[Lab Slides](lectures/lab_1.pdf)] <br> - Deloitte Visit <br> - Lab Overview <br> - Project Management Intro <br> - Team Formation | 1. [Look at sample ideas](ideas.md) <br> 2. [Join slack](https://join.slack.com/t/gwcssd24-25/shared_invite/zt-2o6qn2is4-w6phDTds37qMTEFD18fdhg) & upload your photo ASAP <br> 3. Complete [Student Info form](https://forms.gle/WSfpXNZSwm8y3UHm9) ASAP <br> 4. Form teams & complete [team submission](https://forms.gle/414u7GCqt4AX8iBh7) before Tuesday's class (Sept. 3) |  
-| Sept. 1  | - [Presentation Skills](lectures/how-to-present.pdf) <br> - Review project ideas | [[Lab Slides](lectures/lab_2.pdf)] <br> - [ML Research](lectures/ML_Project_Design.pdf)  <br> - Github Projects Setup <br> - Tech Lab Overview |  1. [Refine Project ideas](https://forms.gle/414u7GCqt4AX8iBh7) (edit team submission) <br> 2. [Submit Resume](https://blackboard.gwu.edu) (blackboard, Sept. 8) <br> 3. [Schedule weekly instructor meeting](https://docs.google.com/spreadsheets/d/1mi4_8ivqpRiqK6PVmxEgRWepL-8SYd-cFjiEvnx4R8E/edit?gid=0#gid=0) (Sept. 8) |
-| Sept. 8 | Team meetings with instructors <br> (team meetings replace lectures from this week onwards) | [[Lab Slides](lectures/lab_3.pdf)] <br> - [5 year MS](lectures/5-year-ms.pdf) <br> - Project Management: Discovery & Research <br> - Tech labs | 1. [Draft project proposal](https://blackboard.gwu.edu), 3 slides (Blackboard, Sept. 15) <br> 2. Schedule weekly mentor meeting before Wednesday's class (Sept. 18) |
-| Sept. 15 | Team meetings with instructors <br> - Refined project ideas <br> - HW equipment and SW needed | [[Lab Slides](lectures/lab_4.pdf)] <br> - Mentor intros <br> - Project Management: Planning in Practice <br> - Jobs/Interview Prep <br> - First team meeting w/ mentors | 1. [Updated Project Proposal Slides](https://blackboard.gwu.edu) (Blackboard, Sept. 22) <br> 2. [HW equipment and SW requests](https://forms.gle/MDY82c3yxTerxwi88) to instructors (Sept. 22) <br> [Mock Interview Signup](https://forms.gle/3HKNEnEEqT48cRib9), optional (first-come, first-served) |
-| Sept. 22 | Team meetings with instructors <br> - Progress Check | [[Lab Slides](lectures/lab_5.pdf)] <br> - Mock Interviews <br> - Standup meeting w/ mentors | 1. Start working on [Writing 1:  Executive Summary](lectures/writing.md) (Blackboard, Oct. 6) <br> 2. Prepare for sprint planning |
-| Sept. 29 | Team meetings with instructors <br> - Sprint Planning Meeting prep | [[Lab Slides](lectures/lab_6.pdf)] <br> - Git, CI/CD <br> - Team Charters <br> - Sprint planning with mentors | 1. [Writing 1:  Executive Summary](lectures/writing.md) (Blackboard, Oct. 6)  <br> 2. [Teamwork Survey](https://forms.gle/gBJWwbYe16FKRjqr9) (Oct. 6) <br> 3. [Team Charter](lectures/team_charter.md) (Github, Oct. 6) |
-| Oct. 6 <br> Fall Break:<br>10-11th | Team meetings with instructors <br> - Progress Check  | [[Lab Slides](lectures/lab_7.pdf)] <br> - Writing Feedback <br> - Project Design & UX <br> - Standup meeting with mentors | 1. Presentation 1 (Oct. 16) |
-| Oct. 13 | Team meetings with instructors <br> - Progress Check | - [Presentation 1:](lectures/presentations.md) <br> Project elevator pitch <br> [Presentations-Rubric](lectures/Presentations-Rubric.pdf) <br> - Standup meeting with mentors | 1. Project Website (landing page, Oct. 20) | 
-| Oct. 20 | Team meetings with instructors <br> - Progress Check | [NO LAB] <br> - project focus time <br> - Standup Meeting with mentors | 1. [Writing 2](lectures/writing.md) (Blackboard, Oct. 27) <br> 2. Team progress review (Oct. 30) <br> 3. Code Review with mentors |
-| Oct. 27 | Team meetings with instructors <br> - Sprint Planning Meeting prep | [REMOTE LAB] <br> [[Lab Slides](lectures/lab_8.pdf)] <br> - Oct. team progress review <br> - Sprint planning with mentors | 1. [Teamwork Survey](https://forms.gle/yYWXpY48Ap7hcMhS8) (Nov. 3) <br> 2. Demo 0: individual progress checkin (week of Nov. 3) <br> 3. Presentation 2 (Nov. 6) |
+| Aug. 25 | - [Course Logistics](lectures/1-Course-Structure.pdf) | [[Lab Slides](lectures/lab_1.pdf)] <br> - Lab Overview <br> - Project Management Intro <br> - Team Formation | 1. [Look at sample ideas](ideas.md) <br> 2. [Join slack](https://join.slack.com/t/gwcssd25-26/shared_invite/zt-3bhej5phf-iVf_UwNsOwMpVKCYtEHQgQ) & upload your photo ASAP <br> 3. Complete [Student Info form](https://forms.gle/gmray918rNtgavgw9) ASAP <br> 4. Form teams & complete [team submission](https://forms.gle/26HhCb1krjA2vfsz6) before Tuesday's class (Sept. 2) |  
+| Sept. 1  | - [Presentation Skills](lectures/how-to-present.pdf) <br> - Review project ideas | [Lab Slides] <br> - [ML Research](lectures/ML_Project_Design.pdf)  <br> - Github Projects Setup <br> - Tech Lab Overview |  1. [Refine Project ideas](https://forms.gle/26HhCb1krjA2vfsz6) (edit team submission) <br> 2. [Submit Resume](https://blackboard.gwu.edu) (blackboard, Sept. 7) <br> 3. Schedule weekly instructor meeting (Sept. 7) |
+| Sept. 8 | Team meetings with instructors <br> (team meetings replace lectures from this week onwards) | [Lab Slides] <br> - [5 year MS](lectures/5-year-ms.pdf) <br> - Project Management: Discovery & Research <br> - Tech labs | 1. [Draft project proposal](https://blackboard.gwu.edu), 3 slides (Blackboard, Sept. 14) <br> 2. Schedule weekly mentor meeting before Wednesday's class (Sept. 17) |
+| Sept. 15 | Team meetings with instructors <br> - Refined project ideas <br> - HW equipment and SW needed | [Lab Slides] <br> - Mentor intros <br> - Project Management: Planning in Practice <br> - Jobs/Interview Prep <br> - First team meeting w/ mentors | 1. [Updated Project Proposal Slides](https://blackboard.gwu.edu) (Blackboard, Sept. 21) <br> 2. HW equipment and SW requests to instructors (Sept. 21) <br> Mock Interview Signup, optional (first-come, first-served) |
+| Sept. 22 | Team meetings with instructors <br> - Progress Check | [Lab Slides] <br> - Mock Interviews <br> - Standup meeting w/ mentors | 1. Prepare for sprint planning |
+| Sept. 29 | Team meetings with instructors <br> - Sprint Planning Meeting prep | [Lab Slides] <br> - Git, CI/CD <br> - Team Charters <br> - Sprint planning with mentors | 1. [Writing 1:  Team Charters](lectures/writing.md) (GitHub, Oct. 5)  <br> 2. Teamwork Survey (Oct. 5) <br> 3. Demo -1: team progress checkin (week of Oct. 6g) |
+| Oct. 6 <br> Fall Break:<br>9-10th | Demo -1: Team meeting w/ instructors | [Lab Slides] <br> - Writing Feedback <br> - Project Design & UX <br> - Standup meeting with mentors | 1. Presentation 1 (Oct. 15) |
+| Oct. 13 | Team meetings with instructors <br> - Progress Check | - [Presentation 1:](lectures/presentations.md) <br> Project elevator pitch <br> [Presentations-Rubric](lectures/Presentations-Rubric.pdf) <br> - Standup meeting with mentors | | 
+| Oct. 20 | Team meetings with instructors <br> - Progress Check | [NO LAB] <br> - project focus time <br> - Standup Meeting with mentors | 1. [Writing 2](lectures/writing.md) (Blackboard, Oct. 26) <br> 2. Team progress review (Oct. 29) <br> 3. Code Review with mentors |
+| Oct. 27 | Team meetings with instructors <br> - Sprint Planning Meeting prep | [REMOTE LAB] <br> [Lab Slides] <br> - Oct. team progress review <br> - Sprint planning with mentors | 1. Teamwork Survey (Nov. 2) <br> 2. Demo 0: individual progress checkin (week of Nov. 3) <br> 3. Presentation 2 (Nov. 5) |
 | Nov. 3 | Demo 0: individual meetings w/ instructors | - [Presentation 2](lectures/presentations.md): Project Design <br> [(Tech) Presentation 2 Rubric](lectures/tech-rubric.pdf) <br> - Standup meeting with mentors | 1. Code review with mentors |
-| Nov. 10 | Team meetings with instructors <br> - Progress Check | [[Lab Slides](lectures/lab_9.pdf)] <br> - [System Design](lectures/lab_9_system_design.pdf) <br> - Standup meeting with mentors | |
-| Nov. 17 | Team meetings with instructors <br> - Prep for Alpha Demo |[REMOTE LAB] <br> [[Lab Slides](lectures/lab_10.pdf)] <br> - Mentor Presentation: [Design Docs](lectures/lab_10_design_docs.pdf) <br> - Mentor Presentation: [Solutions Architect](lectures/lab_10_solutions_architect.pdf) <br> - Standup meeting with mentors | 1. [Writing 3 (Team)](lectures/writing.md) (Nov. 24) <br> includes User Interface Design Document <br> 2. Code review with mentors |
+| Nov. 10 | Team meetings with instructors <br> - Progress Check | [Lab Slides] <br> - Mentor Presentation: System Design <br> - Standup meeting with mentors | 1. [Writing 3 (Team)](lectures/writing.md) (Nov. 16) <br> includes User Interface Design Document |
+| Nov. 17 | Team meetings with instructors <br> - Prep for Alpha Demo |[REMOTE LAB] <br> [Lab Slides] <br> - Mentor Presentation: Design Docs <br> - Mentor Presentation: Solutions Architect <br> - Standup meeting with mentors | 1. Code review with mentors |
 | Nov. 24 | No class | Thanksgiving Break |  |
 | Dec. 1 | Team meetings with instructors <br> - Prep for Alpha Demo | - [Presentation 3](lectures/presentations.md) <br> - Standup meeting with mentors (last one of the semester!) |  |
-| Dec. 8 | <b> [Demo 1: Alpha Project Review](lectures/presentations.md)  </b>  | Team meetings if necessary | 1. [Writing 4: Final Design Document (team)](lectures/writing.md) (Dec. 15) <br> 2. End of Nov/Dec sprint (Dec. 12)<br> 3. [Teamwork Survey](https://forms.gle/sX6zNybwwgefmKDW6) (Dec. 15) |
+| Dec. 8 | <b> [Demo 1: Alpha Project Review](lectures/presentations.md)  </b>  | Team meetings if necessary | 1. [Writing 4: Final Design Document (team)](lectures/writing.md) (Dec. 14) <br> 2. End of Nov/Dec sprint (Dec. 11)<br> 3. Teamwork Survey (Dec. 14) |
 
 </div>
 
 
 ## Spring Semester CSCI 4244 ##
+
+Under development
  
-<div style="font-size:90%">
+<!-- <div style="font-size:90%">
 
 | Week <br> (Monday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines |
 | :--- |:---  |:--- |:--- |    
@@ -96,7 +107,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | May 5   |  |  | [Final Package](lectures/presentations.md#final-package) Due Friday May 9, 11:59PM | 
 | May 12  |   | Commencement Week  | [Graduation, hooray!!](https://commencement.gwu.edu/schedule)  | 
 
-</div> 
+</div>  -->
  
 
 ## Learning Outcomes ##
@@ -117,7 +128,7 @@ You should have received an email with a survey about project topics and teams. 
      +  [Promotional Video of Class2021 Projects](https://youtu.be/-xHwWniwBz4)
   - [Project Ideas from faculty](ideas.md) If you are looking for project ideas/topics, this is a list of ideas previously proposed by faculty. Or these [AI generated ideas](ai-ideas.md) might not all be nonsense.
   - [Blackboard](https://blackboard.gwu.edu) Your place for major announcements. We will use this space for announcements that would change the outcomes, syllabus, or deadlines of the course, and to post your grades. Individual writing assignments will need to be submitted on blackboard.
-  - **[Slack](gwcssd24-25.slack.com)** - ([Join here](https://join.slack.com/t/gwcssd24-25/shared_invite/zt-2o6qn2is4-w6phDTds37qMTEFD18fdhg)) Your place for adhoc and daily communication. We will use this space for communication between team members, teams, mentors and instructors. We will use the same public channel (the general channel) for any classwide communication/discussion but you will have a team channel to use for your team and mentor communications.  
+  - **[Slack](gwcssd25-26.slack.com)** - ([Join here](https://join.slack.com/t/gwcssd25-26/shared_invite/zt-3bhej5phf-iVf_UwNsOwMpVKCYtEHQgQ)) Your place for adhoc and daily communication. We will use this space for communication between team members, teams, mentors and instructors. We will use the same public channel (the general channel) for any classwide communication/discussion but you will have a team channel to use for your team and mentor communications.  
   - <b> Github </b> Your place for code management & task management. We will use this to manage your deployments, store your code, monitor your commit progress, and manage project tasks and details. Project mentors will have access to your repo.
   - [Git Instructions](tutorials/git_tutorial.md) & [Video Demo](https://youtu.be/RvEgfSeEuB0) (provided by Ethan Baron, Cat Meadows).  
   - [Visual Studio Code Instructions](tutorials/vscode_tutorial.md) & [Video Demo](https://youtu.be/WhppZrMvoBU) (provided by Ethan Baron, Cat Meadows)

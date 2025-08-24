@@ -6,15 +6,27 @@ Senior design enables you to focus on your own project, and push your technical 
 An important aspect of Senior Design (SD) is gaining experience writing a document that holistically evaluates how your project relates to the world. This includes how the project should be presented to others, how it relates to the commercial and competitive landscape, and how it will impact the world. This page spells out the requirements for a series of writing assignments you must complete for SD.For each of these writing assignments, make sure to follow the submission rules on the main SD webpage (i.e., submit PDF on Blackboard or the team Github repo as specified).
 <!-- Two of the writing assignments are individual assignments - you are expected to write these on your own with NO collaboration. And you are expected to write about the project that was presented to the instruction team. The remainder are team writing assignments. The specifications and requirements for each of the Writing assignments are provided below.  -->
 
-## Writing 1 (Individual) - Elevator Pitch Executive Summary ##
-Each student must complete this assignment individually (no collaboration) and submit on Blackboard. 
-For this assignment you will write an executive summary for your senior design project with the goal of pitching the project. That is, pretend that you are seeking funding/approval for your project from an investor or a philantropic foundation or your manager or your research supervisor and write a compelling <b> one page summary (11pt font, single spaced) </b>. We have provided a [rubric for Writing 1.](writing1-rubric.pdf)
+## Writing 1 (Team) - Team Charter & Executive Summary ##
 
-You should convince the (non-technical) reader that your project solves an important problem, overcomes difficult technical challenges, and will have an audience (users) or social purpose. The reader should feel that you understand the problem area and have some interesting ideas for solving the problem (and current solutions fall short of your goal). Typical content (based on Small Business Innovation Grants from NSF, VC Initial seed funding or Series A funding pitches etc.) in an elevator pitch are: 
+Each team must complete this assignment together and upload it to their github repo. Additionally, each student must sign their name at the bottom in an individual commit to the repo.
+
+The team charter is a formal, living document that defines the team’s mission, scope of operation, objectives, and participants’ roles and responsibilities. Its purpose is to establish clear expectations and guidelines for team collaboration. For this assignment you will write a team charter for your project. It should address:
+- Project Summary
+- Goals and Objectives
+- Roles and Responsibilities
+- Communication Guidelines
+- Decision Making Guidelines
+- Conflict Resolution Strategies
+- Performance Standards
+- Resource Allocation
+
+The project summary section should be written for a non-technical audience. That is, pretend that you are seeking funding/approval for your project from an investor or a philantropic foundation or your manager or your research supervisor. You should convince the (non-technical) reader that your project solves an important problem, overcomes difficult technical challenges, and will have an audience (users) or social purpose. The reader should feel that you understand the problem area and have some interesting ideas for solving the problem (and current solutions fall short of your goal). Typical content (based on Small Business Innovation Grants from NSF, VC Initial seed funding or Series A funding pitches etc.) in an executive summary are: 
 - Customer: describe the expected customer for your project. What customer needs or market pain points are you addressing?
 - Value Proposition: what is the key differentiator of your product/technology?
 - Innovation: Describe your innovation. What aspects are original, unusual, novel, disruptive or transformative compared to the current state of the art?
 - Broader societal impact: is there a broader societal need you are trying to address with this project?
+
+Please use the following [template](team_charter.md) as a starting point. We will grade both on the content and writing skills, with a focus on writing skills for the project summary.
 
 ## Writing 2 (Individual) - Technical Summary ##
 Each student must complete this assignment individually (no collaboration) and submit on Blackboard. <b> You are limited to 1000 words.</b>
@@ -50,8 +62,6 @@ Note: There is no length requirement but the assignment submission should includ
 
 
 ## Writing 4 (Team) - Revised Product Requirements Document ##
-
-**Updated 12/4/24:** This assignment has been revised since the website was originally posted, so please check carefully!
 
 In this assignment you should revise your Product and Technical Specifications document from Writing 3 based on our feedback and the progress you have made on your project. We expect to see significant changes in response to our comments, as well as your own ideas on how to make the document stronger.
 

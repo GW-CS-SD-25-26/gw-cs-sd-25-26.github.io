@@ -9,7 +9,7 @@ permalink: /syllabus/
 **Prerequisites:** Senior status, CSCI 3212, CSCI 3411 
 
 **Time/Place:**
-  * **Class meets: Tuesday 2:00--3:05pm Tompkins 201 (Section 10) or Tuesday 3:35-4:40pm SEH 1300-1400 (Section 11), and Wednesday 6:10-8:40pm SEH 1300-1450(Lab)**
+  * **Class meets: Tuesday 3:35-4:40pm SEH 1300-1400-1450 (Section 10 and 11), and Wednesday 6:10-8:40pm SEH 1300-1450(Lab)**
 
 **Office Hours:**
 Check Slack for most updated ones.

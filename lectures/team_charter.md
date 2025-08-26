@@ -12,8 +12,9 @@ Last updated: [ YYYY-MM-DD ]
 
 ## 1. Project Summary
 *Use this section to convince the (non-technical) reader that your project solves an important problem, overcomes difficult technical challenges, and will have an audience (users) or social purpose. The reader should feel that you understand the problem area and have some interesting ideas for solving the problem (and current solutions fall short of your goal). Typical content (based on Small Business Innovation Grants from NSF, VC Initial seed funding or Series A funding pitches etc.) includes:*
-- *Customer: describe the expected customer for your project. What customer needs or market pain points are you addressing?*
-- *Value Proposition: what is the key differentiator of your product/technology?*
+- *Customer*: describe the expected customer for your project. Occupation, demographic, location etc.*
+- *Problem statement: What customer needs or market pain points are you addressing?*
+- *Value Proposition: What is the key differentiator of your product/technology?*
 - *Innovation: Describe your innovation. What aspects are original, unusual, novel, disruptive or transformative compared to the current state of the art?*
 - *Broader societal impact: is there a broader societal need you are trying to address with this project?*
 

@@ -62,6 +62,18 @@ Design and implement a security framework for microservice applications deployed
 
 Sledge is a serverless computing framework being developed at GW for low latency computation. This project will extend Sledge with an ML model to predict the processing time for each request and use this to guide resource management decisions such as scheduling and load balancing. -->
 
+## Mentor Ideas
+
+# Outfit Comparison
+An application that allows someone to upload two outfits asking which one is better. The answer gets crowdsourced to other users. The application would be mobile, react native on Expo.
+
+# Voting Understanding
+A voting application with the goal of teaching users the difference between plurality voting, condorcet method, ranked pairs, and instant runoff. You'd be able to create a poll with your friends and see the results based on different voting systems.
+
+# Monolithic to Microservice LLM Refactor tooling.
+Converting a monolithic codebase to microservices requires a great deal of manual work, and can be a risky process. While there is tooling like Kubernetes to manage microservices, the tooling to help refactor a codebase to get to the point where orchestration tools can be used is not as prevalent. A project that uses LLMs to help analyze a codebase and provide realistic steps to automate the refactor process would save large companies time and money. This idea is fairly broad, and should be scoped appropriately for senior design.
+
+
 ## Project ideas from previous years
 
 # UTA/LA Scheduler

@@ -26,7 +26,7 @@ The project summary section should be written for a non-technical audience. That
 - Innovation: Describe your innovation. What aspects are original, unusual, novel, disruptive or transformative compared to the current state of the art?
 - Broader societal impact: is there a broader societal need you are trying to address with this project?
 
-Please use the following [template](team_charter.md) as a starting point. We will grade both on the content and writing skills, with a focus on writing skills for the project summary.
+Please use the following [template](team_charter.md) as a starting point. We will grade both on the content and writing skills, with a focus on writing skills for the project summary. We have provided a [rubric for writing 1](writing1-rubric.pdf).
 
 ## Writing 2 (Individual) - Technical Summary ##
 Each student must complete this assignment individually (no collaboration) and submit on Blackboard. <b> You are limited to 1000 words.</b>

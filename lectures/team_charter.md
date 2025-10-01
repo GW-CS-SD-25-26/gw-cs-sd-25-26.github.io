@@ -12,27 +12,29 @@ Last updated: [ YYYY-MM-DD ]
 
 ## 1. Project Summary
 *Use this section to convince the (non-technical) reader that your project solves an important problem, overcomes difficult technical challenges, and will have an audience (users) or social purpose. The reader should feel that you understand the problem area and have some interesting ideas for solving the problem (and current solutions fall short of your goal). Typical content (based on Small Business Innovation Grants from NSF, VC Initial seed funding or Series A funding pitches etc.) includes:*
-- *Audience/User*: describe the expected audience/user for your project. Occupation, demographic, location etc.*
+- *Audience/User: describe the expected audience/user for your project. Occupation, demographic, location etc.*
 - *Problem statement: What customer needs or market pain points are you addressing?*
 - *Value Proposition: What is the key differentiator of your product/technology?*
 - *Innovation: Describe your innovation. What aspects are original, unusual, novel, disruptive or transformative compared to the current state of the art?*
 - *Broader societal impact: is there a broader societal need you are trying to address with this project?*
 
+*Your project summary should be in paragraph form and ~500 words*
+
 ## 2. Project Objectives
-*Clearly state the overall purpose of your team and briefly describe your senior design project. This is similar to the project summary, but is more practical and concise rather than persuasive and aspriational.*
+*Clearly state the overall purpose of your team and briefly describe your senior design project. This is similar to the project summary, but is more practical and concise rather than persuasive and aspriational. Specifically, use this section to identify how your project addresses the technical & algorithmic complexity bars required for senior design.*
 
 ### 2.1 Specific Goals
 *Include a list of the specific components of your solution*
 
 *Example for building ChatGPT:*
 - *AI Model: A generative language model trained on large amounts of public data that can accurately and safely respond to user queries.*
-- *Compute-efficient backend: A highly scalable backend that can run the ai model and intelligently handle batching requests to optimize gpu efficiency*
+- *Compute-efficient backend: A highly scalable backend that can run the ai model and intelligently handle batching requests to optimize gpu efficiency.*
 - *User-friendly web app: A website with a chat interface that allows users to interact with the model. The website should require authentication and use accounts to manage individual's chat history*
 
 ## 3. Roles and Responsibilities
-*Describe the different roles each team member will play and their primary focus area. Identify a "project lead" responsible for managing deadlines and organizing the rest of the team. Identify who is responsible for any logistics roles (managing sprint boards etc)*
 
 ### 3.1 Team Lead
+*Describe the different roles each team member will play and their primary focus area. Identify a "project lead" responsible for managing deadlines and organizing the rest of the team. Identify who is responsible for any logistics roles (managing sprint boards, etc). You can use the team lead section below as a starting point, but feel free to change it to meet your team's needs.*
 
 The team lead, *[Member Name]*, is responsible for managing team deadlines and keeping everyone on track. Their concrete responsibilities include:
 - reminding team members to post weekly status updates
@@ -70,8 +72,10 @@ The team lead, *[Member Name]*, is responsible for managing team deadlines and k
 - *Describe when the team will meet as a group and on what cadence and for what purpose*
 
 ### 4.3 Documentation & Reporting
+*You should discuss and modify these processes as your team sees fit.*
+
 - Meeting notes will be documented and shared over Slack within 24 hours of each meeting.
-- Team members will post weekly status updates to github projects no later than Wednesday night outlining:
+- Team members will post weekly status updates to github projects no later than *Wednesday* night outlining:
 	- what they worked on over the past week
 	- if they are blocked on anything
 	- what they are currently working on
@@ -79,7 +83,7 @@ The team lead, *[Member Name]*, is responsible for managing team deadlines and k
 - All members must be transparent about their progress, challenges, and any delays they anticipate.
 
 ## 5. Decision-Making Process
-*You can discuss and modify these processes as your team sees fit.*
+*You should discuss and modify these processes as your team sees fit.*
 
 - **Consensus-Based Decisions**: Major decisions will be made through consensus among all team members. In case of a deadlock, a majority vote will have the final say. If no majority is reached, the team will reach out to their mentor and instructor for guidance.
 - **Documentation**: All decisions must be documented and shared with the team to ensure clarity and alignment.
@@ -88,25 +92,34 @@ The team lead, *[Member Name]*, is responsible for managing team deadlines and k
 ## 6. Performance Standards
 
 ### 6.1 Work Distribution
+*You should discuss and modify these processes as your team sees fit.*
 - **Flexibility**: If a member is unable to complete a task, they must notify the team as soon as possible to allow for reallocation or assistance.
 
 ### 6.2 Respect and Professionalism
+*You should discuss and modify these processes as your team sees fit.*
 - **Mutual Respect**: All members are expected to treat each other with respect and professionalism.
 - **Constructive Feedback**: Feedback should be given and received constructively, focusing on improving the project.
 
 ## 7. Resource Allocation
+*You should discuss and modify these processes as your team sees fit.*
 - **Time Commitment**: All members are expected to spend ~10 hours of time outside of class per week on the project.
 - **Workload Distribution**: Tasks will be assigned based on each member's expertise and availability. Each member is expected to complete their assigned tasks within the agreed-upon deadlines. 
 - **Shared Resources:** *List any shared resources (compute, hardware, etc) and how to access them*
 
-## 8. Signatures
+## 8. AI Use
+*What AI tools will you use as part of your project?*
+*How will you guarantee that you’ll maintain good code quality & shared understanding when using these tools?*
+
+*Ex: We will use GitHub CoPilot and ChatGPT to assist in development. To maintain code quality, we will ensure unit test coverage >= 80%. If an AI tool was used to generate code, this will be noted in the PR description or as a comment on specific lines of code to help with PR review.*
+
+## 9. Signatures
 By signing below, each team member agrees to uphold this team charter (add names as separate commits):
 - [Member 1] , [Date]
 - [Member 2] , [Date]
 - [Member 3] , [Date]
 - [Member 4] , [Date]
 
-## 9g. Charter Review and Updates
+## 10. Charter Review and Updates
 This charter was last updated on [YYYY-MM-DD].
 
 It was previously modified on:

@@ -21,7 +21,7 @@ You should prepare a (max) 7 minute presentation to describe the overall archite
 - Provide the system architecture diagram
 - Give a technical description of what the key components are, and who is developing each component
 - Describe what plans for your alpha prototype (plan for 1 minute max on this)
-- Technical challenges and risks: what are the "unknowns" (what have you not figured out, where is the risk)? what is the development cost (lines of code, people, HW etc.)? if you have identified potential roadblocks/points of failure then point these out. 
+- Technical challenges and risks: what are the "unknowns" (what have you not figured out, where is the risk)? what is the development cost (external dependencies, people, HW, etc.)? if you have identified potential roadblocks/points of failure then point these out.
 
 Put particular effort into having a nice visual that helps us understand the components of your system. (In the brief overview of the system, please briefly remind everyone of the motivation and context for your project.) We will use a rubric similar to the first presentation but with more emphasis on the technical description (including the scope and the technical depth of your project).
 

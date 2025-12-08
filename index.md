@@ -75,7 +75,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 | Nov. 17 | Team meetings with instructors <br> - Prep for Alpha Demo | [[Lab Slides](lectures/lab_9.pdf)] <br> - Mentor Presentation: System Design <br> - Standup meeting with mentors | 1. Code review with mentors |
 | Nov. 24 | No class | Thanksgiving Break |  |
 | Dec. 1 | Team meetings with instructors <br> - Prep for Alpha Demo | - [Presentation 3](lectures/presentations.md) <br> - Standup meeting with mentors (last one of the semester!) |  |
-| Dec. 8 | <b> [Demo 1: Alpha Project Review](lectures/presentations.md)  </b>  | Team meetings if necessary | 1. [Writing 4: Final Design Document (team)](lectures/writing.md) (Dec. 14) <br> 2. End of Nov/Dec sprint (Dec. 11)<br> 3. Teamwork Survey (Dec. 14) |
+| Dec. 8 | <b> [Demo 1: Alpha Project Review](lectures/presentations.md)  </b>  | Team meetings if necessary | 1. [Writing 4: Final Design Document (team)](lectures/writing.md) (Dec. 14) <br> 2. End of Nov/Dec sprint (Dec. 11)<br> 3. [Teamwork Survey](https://forms.gle/WVpFpU6kcKVSrLy29) (Dec. 14) |
 
 </div>
 

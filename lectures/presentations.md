@@ -57,26 +57,18 @@ The demo is a sit down to talk through the code and the system features. You sho
 
 ## Sprint Planning ##
 Spring will be broken into sprints that run until the end of January, February, March, and April. At the start of each sprint each team will:
- - Make a sprint plan that defines the high level goals for the sprint, and add this to their Readme. Preparing this plan will be the subject of the first Instructor meeting in each sprint.
- - Break the sprint down into smaller tasks added to their sprint board. Preparing this breakdwon will be the subject of the first Alumni Mentor meeting in each sprint.
+ - Make a sprint plan that defines the high level goals for the sprint, and add this to their github project README. Preparing this plan will be the subject of the final instructor meeting of the previous sprint.
+ - Break the sprint down into smaller tasks added to their sprint board. Preparing this breakdown will be the subject of the final Alumni Mentor meeting of the previous sprint.
 
 ## Spring Demos
-In Spring you will have a demo after each monthly sprint. At the start of Februrary, students will give an individual demo, showing off what they have accomplished since the end of Fall. At the start of March, you will give your demo as a team, ideally showing both further individual progress and evidence of integration. At the start of April you will do another individual demo, and then the final demo (described below) will be in the middle of April.
+In Spring you will have a demo after each monthly sprint. At the start of Februrary, you will give an individual demo, showing off what you have accomplished since the end of Fall. At the start of March, you will give your demo as a team, ideally showing both further individual progress and evidence of integration. At the start of April you will do another individual demo, and then the final demo (described below) will be in the middle of April.
 
 ## Spring Code Reviews
-You will be expected to provide code reviews for other members of your team. One student will need to create a Pull Request and another student (or students) must provide feedback using the github commenting interface. Try to provide overall comments as well as some line specific comments. Each team will need to ensure that all students have a chance to make a PR and review someone else's PR.
+You will be expected to provide code reviews for other members of your team. One student will need to create a Pull Request and another student (or students) must provide feedback using the github commenting/review interface. Try to provide overall feedback as well as some line specific comments. Each team will need to ensure that all students have a chance to make a PR and review (approve/reject/request changes) someone else's PR.
 
 ## Presentation 4: Skill Refinement ##
-The goal of this presentation is to give you more direct practice with speaking skills. Your group will present the same slides that you used at the end of Fall--you do not need to update them. While you are giving the presentation we will interrupt you and give you specific feedback on something we'd like you to focus on (for example improving eye contact or raising your volume), then we'll have you repeat your slide focusing on that skill. Thus the content of your slides is less important (in fact, you can choose to talk about anything you want), but we want to have a tight loop between you practicing a skill and getting feedback.
+The goal of this presentation is to give you more direct practice with speaking skills. Your group will present the same slides that you used at the end of Fall -- you do not need to update them. While you are giving the presentation we will interrupt you and give you specific feedback on something we'd like you to focus on (for example improving eye contact or raising your volume), then we'll have you repeat your slide focusing on that skill. Thus the content of your slides is less important (in fact, you can choose to talk about anything you want), but we want to have a tight loop between you practicing a skill and getting feedback.
 
-<!-- ## Beta Project Review Demo ##
-This demo is a sit down demo to assess progress since the Alpha demo. The demo will be assessed based on the progress since the alpha demo, how you have addressed the feedback (questions and suggestions) fron the alpha demo, and clear specification of the steps needed to provide an end to end working system (with all components integrated).
-
-## Demo 3: Preliminary Prototype ##
-This is a demo of an "almost completed" project. We will assess whether you have a end to end working system, with all components integrated, and if all project features (as discussed during Alpha and Beta demos) are implemented. The projects should have a near final user interface. After this demo, the goal should be to carry out more testing, debugging and cleaning up the UI based on the feedback you will receive. Grading will take into account the technical complexity of the project. -->
-
-<!-- ## Mock 100% Demo ##
-The mock demo will be more like a presentation to the instruction team; it will serve as the blueprint for your demo, and your final project features. You should walk the audience through what you will demo - how the project looks to the user, how user interacts with it, features you will implement and demonstrate, and what architectural details you will demonstrate or discuss.  -->
 
 ## Final Presentations ##
 This is the final project presentation - and will be similar to Presentation 3 (the end of Fall semester presentation). Your presentation should include these topics:
@@ -96,19 +88,19 @@ Demo:
  - In general we do not suggest doing a live demo given the limited time and the need to present from the classroom computer instead of your own machine.
  - The demo can either be a small portion of your presentation, or you may be able to intersperse it with the rest of your presentation (e.g., talk over what you are showing)
 
-Total Time: 8 minutes. You will be graded on both your speaking skills and the content. We will have guests attending, and some quests may help evaluate the presentations.
+Total Time: 7 minutes (this is shorter than your final fall presentation!). You will be graded on both your speaking skills and the content. We will have guests attending, and some guests may help evaluate the presentations.
   - You will have a chance to give a practice version of your final presentation in class a few weeks before the official one.
 
 ## Final Demo ##
-This demo must show your final end to end working system. It will be a sit down demo with the instruction team, and you can use your Mock Demo blueprint to walk the audience through the demo and showcase the project features. Expect to show the code working. Rubric is similar to Alpha Demo but will be weighted on how complete the system is, final features implemented, presence (or absence) of bugs in your system and technical/algorithmic complexity.
+This demo must show your final end to end working system. It will be a sit down demo with the instruction team, and you'll walk the audience through the demo and showcase the project features. Expect to show the code working. Rubric is similar to Alpha Demo but will be weighted on how complete the system is, final features implemented, presence (or absence) of bugs in your system and technical/algorithmic complexity. You'll be expected to provide a "pre-read" 2 days prior to your final demo explaining your contributions to the project in the spring semester.
 
 
 ## Final Package ##
-At the end of the semester you must upload the following to your team's github website and google drive. Your website should include:
+At the end of the semester you must upload the following to google drive. You should upload to your team folder [here](https://drive.google.com/drive/folders/14kFqQV2Wf7HH9zk7yg4I2_PE8d1XHJvy?usp=drive_link).
   - A project description and bio of team members
   - Final Presentation Slides (PDF)
   - Senior Design showcase poster (PDF)
   - Writing 4 (PDF) 
-  - Link to Github repository with all code
+  - A zipfile of your Github repo
 
-Your google drive upload should include everything on the website plus a zipfile of your Github repo. You should upload to your team folder [here](https://drive.google.com/drive/u/0/folders/1d6vehQl2DRjVOn-aCnQAvCzEMSrSXnKO).
+Additionally, you may optionally create a project website through github pages. This is useful for you to have a central location to show of your project, and beneficial for the course as we can point future students to all the great work you accomplished!

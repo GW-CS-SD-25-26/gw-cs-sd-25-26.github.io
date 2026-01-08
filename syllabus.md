@@ -82,7 +82,7 @@ Senior design enables you to focus on your own project, and push your technical 
  There are substantive demos (you can view these as major project checkpoints) at the end of every sprint during the two semesters (Fall and Spring). As part of your project planning (early in fall) the mentors and instructors will help you identify the deliverables/demo for each of these checkpoints and we assess your progress based on this. To meet requirements each of the demo/checkins, must have implemented some part(s) of your final software system (therefore a report or a design document by itself will not meet the criteria for any of the checkpoints beyond demo -1).
  
 ### Final Package ###
- To complete the course, you must submit the Final package by the deadline May 11th. *Failure to submit the complete final package will result in no grade being assigned*
+ To complete the course, you must submit the Final package by the deadline May 8th. *Failure to submit the complete final package will result in no grade being assigned*
  You must submit the following:
 <b> 1. Code </b> (Github repo) Please check with instructor or your faculty mentor to see what your specific requirements are.
    * The most recent working version of your project's code, merged to main (on Github project repo)
@@ -90,15 +90,19 @@ Senior design enables you to focus on your own project, and push your technical 
    * README file should also contain instructions for follow-on projects (for future SD projects) if applicable. 
    * (If applicable) A simple test program that can be run at the command-line that will run only if everything is correctly installed
   
-<b> 2. Equipment </b> (if applicable): If your project involved equipment bought by the Department, please return the equipment before noon on May 12th
+<b> 2. Equipment </b> (if applicable): If your project involved equipment bought by the Department, please return the equipment before noon on May 8th
 
-<b> 3. Project Videos (Screencasts) </b> You will need to submit two videos (on Github or your google drive which you must share with the instruction team and your mentor.
+<!-- <b> 3. Project Videos (Screencasts) </b> You will need to submit two videos (on Github or your google drive which you must share with the instruction team and your mentor.
    * Create a 3-5 minute  “promotional” video that is akin to a “sales pitch” (plan for a 3 minute video, and you should not exceed 5 minutes). It should provide a high level description of your project/product aimed at general tech savvy audiences (such as VCs, upper level management, etc.). It should describe what the product does and why is it useful - you don't need to describe how it is built.
-   *  Create an 8-minute project video (it can be a screencast using the slides in your final presentation where you talk as you go from slide to slide). Think of this as a record of your final presentation that anyone can view and understand what the project does, as well as how it works (including technical components and solutions). We recommend including videos (or at least screenshots) showing your project at work.
+   *  Create an 8-minute project video (it can be a screencast using the slides in your final presentation where you talk as you go from slide to slide). Think of this as a record of your final presentation that anyone can view and understand what the project does, as well as how it works (including technical components and solutions). We recommend including videos (or at least screenshots) showing your project at work. -->
  
-<b> 4. Poster </b> Create a standard-sized poster (typically 6 slides) of your project. Create a PDF but await instructions about printing and making the poster itself.
+<b> 3. Poster </b> Create a standard-sized poster (typically 6 slides) of your project for the Senior Design Showcase. Create a PDF but await instructions about printing and making the poster itself.
 
-<b> 5. Project Webpage </b> Create one professional website for your project, hosted on github (see main course page for link to github pages)  with the following elements:
+<b> 4. Writing 4 </b> Include your final writing as a PDF from the fall semester.
+
+<b> 5. Final Presentation Content </b> Export your final presentation slides as a PDF and include any video demos that were part of the presentation.
+
+<b> 6. [OPTIONAL] Project Webpage </b> Create one professional website for your project, hosted on github (see main course page for link to github pages)  with the following elements:
   * Landing page (home page) - should have an "about" content which gives a concise description of your project; visitors to the website should get an idea of what your project does just by reading this.
   * Team information - include photos and short (one paragraph) biosketch about each team member (interests, position etc.).
   * What tools/libraries/APIs/hardware were used to build your project (this info should ideally be part of the landing page)
@@ -162,7 +166,7 @@ g
     * [10%] Final Presentation: this is the formal presentation (business casual) at end of the semester to an open audience (open to all CS students, faculty and alumni) in Lehman Auditorium
     * [25%] Final Demo: this is the full demo of the final project/product. Grade based on the project's technical and algorthmic difficulty, amount completed, ability to communicate about the work that has been completed, and personal effort put towards the project.
  * [6%] Participation and Initiative: attendance, team surveys
- * [10%] Final Package: updated project website including:
+ * [10%] Final Package:
     - A project description and bio of team members
     - Final Presentation Slides (PDF)
     - Senior Design showcase poster (PDF)

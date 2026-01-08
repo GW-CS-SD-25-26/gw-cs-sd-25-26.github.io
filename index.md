@@ -12,11 +12,11 @@ layout: home
         <li><b>Prof. Timothy Kim - Lecture Section 11 </b></li>
         <li> timothyk@gwu.edu </li>
         <li> Tuesday 3:35pm -- 4:40pm , SEH 1300/1400/1450 </li>
-        <li><b> Josh Shapiro - Lab </b> </li>
+        <li> <b> Josh Shapiro - Lab </b> </li>
         <li> jshapiro314@gwu.edu </li>
         <li> Wednesday 6:10 -- 8:40pm, SEH 1300/1400/1450  </li>
-        <li> <b>TBD - WID TA</b></li>
-        <li> TBD</li>
+        <li> <b>Seeam Khan - GTA</b> </li>
+        <li> skhan96@gwmail.gwu.edu </li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
@@ -81,33 +81,31 @@ This is a two semester Computer Science capstone course culminating in a signifi
 
 
 ## Spring Semester CSCI 4244 ##
-
-Under development
  
-<!-- <div style="font-size:90%">
+<div style="font-size:90%">
 
-| Week <br> (Monday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines |
+| Week <br> (Monday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, unless otherwise noted) |
 | :--- |:---  |:--- |:--- |    
-| Jan. 13 | Individual Fall Feedback | [[Lab Slides](lectures/lab_11.pdf)] <br> - Spring Project Planning |  |
-| Jan. 20 | Status Update |  [[Lab Slides](lectures/lab_12.pdf)] <br> - Testing and Code Reviews |  |
-| Jan. 27 | Status Update | Lab Office Hours | [Sprint with Peer Code Review](lectures/presentations.md#spring-code-reviews) by 2/2 | 
-| Feb. 3  | [Demo 2](lectures/presentations.md#spring-demos) (individual)  | [[Lab Slides](lectures/lab_13.pdf)] <br> - Salary Negotiation <br> - [Career Planning](lectures/lab_13_career_services.pdf) <br> - February Sprint Prep | [Groupwork Feedback (Opt)](https://forms.gle/TNFt9mvHcBDVtEEo8) |
-| Feb. 10  | Sprint 3 Plan  | Demo 2 Feedback (zoom)  |   |
-| Feb. 17 | Status Update | [Presentation 4](lectures/presentations.md#presentation-4-skill-refinement): Skill Refinement |  | 
-| Feb. 24 | Status Update | Lab Office Hours (zoom) | [Sprint with Mentor Code Review](lectures/presentations.md#spring-code-reviews) by 3/2 |
-| Mar. 3  | [Demo 3](lectures/presentations.md#spring-demos) (team) | [[Lab Slides](lectures/lab_14.pdf)] <br> - Cloud Deployment Strategies <br> - [Deployment Tutorials](lectures/lab_14_tutorials.pdf) | [Group Feedback Survey (Reqd)](https://docs.google.com/forms/d/e/1FAIpQLSc5nxv95db3I2FJJ_aUTwppRjS1ydMlRxTcNSF7Vaa1_snxvA/viewform?usp=header) 3/9 |
-| Mar. 10  | SPRING BREAK |  |  |
-| Mar. 17 | Final Sprint Plan | Senior Focus Group  |  |
-| Mar. 24 | Status Update | Lab Office Hours    | [Sprint with Peer Code Review](lectures/presentations.md#spring-code-reviews) by 3/30  | 
-| Mar. 31 | [Demo 4](lectures/presentations.md) (individual)  | [[Lab Slides](lectures/lab_15.pdf)] <br> - Money management in the real world <br> - Final course logistics | - [Group Feedback (Opt)](https://forms.gle/kp4JAGKnxQqjGC9AA) <br> - Sign up for [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) by 4/4 |
-| Apr. 7  | Demo 4 Feedback <br> Mentor Slide Review | [Practice Presentation](lectures/presentations.md#final-presentations) | |
-| Apr. 14 |  [Final Demo](lectures/presentations.md#final-demo) (team) | Feedback for Practice Presentation (zoom) | [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) Poster PDF Submission Due 4/18 |
-| Apr. 21 | Optional instructor meeting | <b>  [Final Presentation](lectures/presentations.md#final-presentations)  </b> | [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> Friday April 25 (Showcase Day) | 
-| Apr. 28 | Classes End | Makeup Demos (No Lab) |  | 
-| May 5   |  |  | [Final Package](lectures/presentations.md#final-package) Due Friday May 9, 11:59PM | 
-| May 12  |   | Commencement Week  | [Graduation, hooray!!](https://commencement.gwu.edu/schedule)  | 
+| Jan. 12 <br> <b>Jan. Sprint Start<b> | Individual Fall Feedback | [Lab Slides] <br> - Spring Project Planning <br> - Testing & Code Reviews <br> - First team meeting w/ mentors (sprint planning) |  |
+| Jan. 19 | Status Update |  [NO LAB] <br> - Project focus time <br> - Schedule time with instructors if you need help <br> - Standup meeting w/ mentors |  |
+| Jan. 26 | Define Feb. Sprint Goals | Lab Office Hours <br> - Sprint planning w/ mentors | 1. End of January Sprint, [peer code review](lectures/presentations.md#spring-code-reviews) required (Feb. 1) <br> 2. [Demo 2](lectures/presentations.md#spring-demos): individual progress checkin (week of Feb. 2) | 
+| Feb. 2 <br> <b>Feb. Sprint Start<b> | [Demo 2](lectures/presentations.md#spring-demos) (individual)  | [Lab Slides] <br> - Salary Negotiation TBD <br> - February Sprint Prep <br> - Standup meeting w/ mentors | 1. [Teamwork Survey (Opt)] (Feb. 8) |
+| Feb. 9  | Status Update  | [REMOTE LAB] <br> - Demo 2 Feedback (zoom) <br> - Standup meeting w/ mentors | 1. [Presentation 4](lectures/presentations.md#presentation-4-skill-refinement) (Feb. 18)  |
+| Feb. 16 | Status Update | [Presentation 4](lectures/presentations.md#presentation-4-skill-refinement): Skill Refinement |  | 
+| Feb. 23 | Define March Sprint Goals | [REMOTE LAB] <br> - Lab Office Hours (zoom) | 1. End of February Sprint, [mentor code review](lectures/presentations.md#spring-code-reviews) required (Mar. 1) <br> 2. [Demo 3](lectures/presentations.md#spring-demos): team progress checkin (week of Mar. 1) |
+| Mar. 2 <br> <b>Mar. Sprint Start<b>  | [Demo 3](lectures/presentations.md#spring-demos) (team) | [Lab Slides] <br> - Cloud Deployment Strategies <br> - [Deployment Tutorials](lectures/lab_14_tutorials.pdf) | [Group Feedback Survey (Reqd)] (Mar. 8) |
+| Mar. 9  | SPRING BREAK |  |  |
+| Mar. 16 | Status Update | Senior Focus Group TBD |  |
+| Mar. 23 | Define April Sprint Goals | Lab Office Hours | 1. End of March Sprint, [peer code review](lectures/presentations.md#spring-code-reviews) required (Mar. 29) <br> 2. [Demo 4](lectures/presentations.md#spring-demos): individual progress checkin (week of Mar. 30) | 
+| Mar. 30 | [Demo 4](lectures/presentations.md) (individual) | [Lab Slides] <br> - Money management in the real world TBD <br> - Final course logistics | 1. [Group Feedback (Opt)] (Apr. 5) <br> 2. Sign up for [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) by ~~4/3~~ TBD <br> 3. [Practice Presentation](lectures/presentations.md#final-presentations) (Apr. 8) |
+| Apr. 6  | Demo 4 Feedback <br> Mentor Slide Review | [Practice Presentation](lectures/presentations.md#final-presentations) | 1. [Final Demo](lectures/presentations.md#final-demo): team evaluation (week of Apr. 13) |
+| Apr. 13 |  [Final Demo](lectures/presentations.md#final-demo) (team) | Feedback for Practice Presentation (zoom) | 1.[Final Presentation](lectures/presentations.md#final-presentations) (Apr. 22) <br> 2. [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) Poster PDF Submission ~~Due 4/17~~ TBD |
+| Apr. 20 | Optional instructor meeting | <b>  [Final Presentation](lectures/presentations.md#final-presentations)  </b> | 1. [SEAS R&D and Senior Design showcase](https://showcase.engineering.gwu.edu/participate) <br> ~~Friday April 24~~ TBD (Showcase Day) | 
+| Apr. 27 | Classes End | Makeup Demos (No Lab) |  | 
+| May 4   |   |  | 1. [Final Package](lectures/presentations.md#final-package) Due Friday May 8, 11:59PM | 
+| May 11  |   | Commencement Week  | [Graduation, hooray!!](https://commencement.gwu.edu/schedule)  | 
 
-</div>  -->
+</div> 
  
 
 ## Learning Outcomes ##

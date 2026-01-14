@@ -1,12 +1,3 @@
----
-layout: page
-title: Sprint Progress Rubric
-permalink: /sprint-progress-rubric/
----
-
-<!-- ## Fall
-__under construction__ -->
-
 ## Spring
 
 Spring sprint progress is evaluated across 4 areas:

@@ -1,3 +1,5 @@
+# Sprint Progress Grading Criteria
+
 ## Spring
 
 Spring sprint progress is evaluated across 4 areas:

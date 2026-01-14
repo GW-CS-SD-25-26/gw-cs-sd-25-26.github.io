@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sprint Progress Rubric
-permalink: /sprint-progres-rubric/
+permalink: /sprint-progress-rubric/
 ---
 
 <!-- ## Fall

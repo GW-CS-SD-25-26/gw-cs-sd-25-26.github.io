@@ -152,11 +152,11 @@ You will be assigned grades for each course CSCI 4243 and CSCI 4244, with the fo
    * Each student is expected to complete tickets on the project board, create their own weekly status update, and merge code to `main` by the end of each sprint.
  * [20%] Alpha Project Review
  * [5%] Participation and Initiative: attendence, team surveys, assignments (resume, tech lab, etc)
-g
+
 ### CSCI 4244 (Spring semester) ###
  * [10%] Presentations
     * [5%] Presentation 4
-    * [5%] Mock demo presentation
+    * [5%] Practice Final Presentation
  * [39%] Sprint Progress & Demos
     * [21%] 3x Demos: will take into account progress since previous demo, technical complexity (including tools used)
       * Some demos will be performed as a group and some will be done individually. In both cases, each students should be able to showcase their progress from the sprint.
